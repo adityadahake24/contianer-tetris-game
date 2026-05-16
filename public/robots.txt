@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Allow: /container-tetris
+
+Sitemap: https://container-tetris.vercel.app/sitemap.xml
